@@ -1,0 +1,21 @@
+
+I am 0 of 2
+! Process 0 is an INITIATOR. !
+
+! Active neighbors of process 0 are 1 and 1 !
+! Own ID 0 is LESS THAN max ID 1 between active neighbors. !
+! Process 0 becomes PASSIVE with status 0 !
+! Process 0 reached round 1 with status 0 !
+
+I am 1 of 2
+! Process 1 is an INITIATOR. !
+
+! Active neighbors of process 1 are 0 and 0 !
+! Own ID 1 is LARGER THAN max ID 0 between active neighbors. !
+! Process 1 reached round 2 with status 1 !
+! Active neighbors of process 1 are 1 and 1 !
+! Process 1 reached round 3 with status 1 !
+
+! Process 1 received its own ID from either side. ! 
+! Process 1 is the LEADER. !
+
